@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![HumanShelterGIF](https://user-images.githubusercontent.com/47185800/112893395-d0911d80-9104-11eb-84bf-3b6224bea904.gif)
