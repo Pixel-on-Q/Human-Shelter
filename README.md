@@ -15,3 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+![gif](https://user-images.githubusercontent.com/47185800/112895042-ce2fc300-9106-11eb-9e84-b9a181438777.gif)
