@@ -1,4 +1,4 @@
-# codecamp
+# Sample
 
 A new Flutter project.
 
